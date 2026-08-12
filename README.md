@@ -1,6 +1,6 @@
 <div align="center">
 
-# `> Relinel`
+# `> RedLineL`
 
 **Cybersecurity Student • Learning Reverse Engineering • Low-level enjoyer**
 
@@ -18,7 +18,7 @@
 
 ```c
 struct developer {
-    char*  alias          = "Relinel";
+    char*  alias          = "RedLineL";
     char*  studying       = "Cybersecurity";
     char*  learning       = "Reverse Engineering";
     char*  languages[]    = { "C", "C++", "Java", "Python", "Assembler" };
@@ -55,9 +55,11 @@ struct developer {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RedLineL&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/RedLineL)
+<!-- Генерируется GitHub Actions (.github/workflows/metrics.yml) -->
+![Metrics](./metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLineL&layout=compact&theme=chartreuse-dark&hide_border=true)
+<!-- Змейка, поедающая contribution-граф (.github/workflows/snake.yml) -->
+![Snake animation](https://raw.githubusercontent.com/RedLineL/RedLineL/output/snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RedLineL&style=for-the-badge&color=green)
 
