@@ -55,11 +55,11 @@ struct developer {
 
 <div align="center">
 
-![Relinel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Relinel&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RedLineL&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/RedLineL)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Relinel&layout=compact&theme=chartreuse-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedLineL&layout=compact&theme=chartreuse-dark&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=Relinel&theme=chartreuse-dark&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=RedLineL&style=for-the-badge&color=green)
 
 </div>
 
