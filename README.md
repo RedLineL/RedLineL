@@ -55,11 +55,11 @@ struct developer {
 
 <div align="center">
 
-![Relinel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redlinel&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
+![Relinel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Relinel&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redlinel&layout=compact&theme=chartreuse-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Relinel&layout=compact&theme=chartreuse-dark&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=Redlinel&theme=chartreuse-dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=Relinel&theme=chartreuse-dark&hide_border=true)
 
 </div>
 
