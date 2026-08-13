@@ -2,10 +2,13 @@
 
 # `> RedLineL`
 
-**Cybersecurity Student • Learning Reverse Engineering • Low-level enjoyer**
+## 🛡️ Cybersecurity Student
+
+**Low-level enjoyer • Aspiring Reverse Engineer**
 
 ```
-[*] Learning to pull apart binaries to see what makes them tick.
+[*] Cybersecurity is my path — offensive & defensive fundamentals.
+[*] Learning reverse engineering to understand how things really work.
 [*] C/C++ • Java • Python • x86/x64 Assembly
 [*] Windows + Linux (Kali & Arch)
 ```
@@ -19,19 +22,19 @@
 ```c
 struct developer {
     char*  alias          = "RedLineL";
-    char*  studying       = "Cybersecurity";
-    char*  learning       = "Reverse Engineering";
+    char*  focus          = "Cybersecurity";          // main path
+    char*  goal           = "Reverse Engineering";    // learning & aiming for it
     char*  languages[]    = { "C", "C++", "Java", "Python", "Assembler" };
     char*  os[]           = { "Windows", "Kali Linux", "Arch Linux" };
     bool   still_learning = true;   // always
 };
 ```
 
-- 🔧 Learning **reverse engineering** — getting into disassembly, debugging, unpacking, patching.
-- 🛡️ Studying **cybersecurity** — offensive & defensive fundamentals.
+- 🛡️ **Cybersecurity** is my main focus — offensive & defensive fundamentals.
+- 🔧 Learning **reverse engineering** — where I want to go: disassembly, debugging, unpacking, patching.
 - 🐍 Writing tools & scripts across **C/C++, Java, Python**.
-- ⚙️ Reading **Assembly** because that's where the truth lives.
-- 🐧 Daily driving **Kali** & **Arch**, keeping **Windows** around for RE targets.
+- ⚙️ Getting comfortable with **Assembly** because that's where the truth lives.
+- 🐧 Daily driving **Kali** & **Arch**, keeping **Windows** around for testing & targets.
 
 ---
 
