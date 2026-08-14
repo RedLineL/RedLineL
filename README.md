@@ -1,6 +1,6 @@
 <div align="center">
 
-# `> RedLineL`
+# `> Redlinel`
 
 ## 🛡️ Cybersecurity Student
 
@@ -21,9 +21,9 @@
 
 ```c
 struct developer {
-    char*  alias          = "RedLineL";
+    char*  alias          = "Redlinel";
     char*  focus          = "Cybersecurity";          // main path
-    char*  goal           = "Reverse Engineering";    // learning & aiming for it
+    char*  goal           = "Reverse Engineering";    // learning
     char*  languages[]    = { "C", "C++", "Java", "Python", "Assembler" };
     char*  os[]           = { "Windows", "Kali Linux", "Arch Linux" };
     bool   still_learning = true;   // always
@@ -50,18 +50,14 @@ struct developer {
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
-**Tools I'm learning to use:** IDA · Ghidra · x64dbg · radare2 · GDB · Binary Ninja · Wireshark · pwntools · and much more...
-
 ---
 
 ### `stats`
 
 <div align="center">
 
-<!-- Генерируется GitHub Actions (.github/workflows/metrics.yml) -->
 ![Metrics](./metrics.svg)
 
-<!-- Змейка, поедающая contribution-граф (.github/workflows/snake.yml) -->
 ![Snake animation](https://raw.githubusercontent.com/RedLineL/RedLineL/output/snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RedLineL&style=for-the-badge&color=green)
